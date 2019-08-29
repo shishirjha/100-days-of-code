@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### My Aim with this project:
+I am joining 100 days of code from today, that is 29th August, 2019. I have been coding for long now but I have not participated in
+it yet. Now I think its really time to make a public commitment while preparing for a dev job that I have been preparing for a while now.
+
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
