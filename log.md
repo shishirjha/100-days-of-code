@@ -4,23 +4,13 @@
 I am joining 100 days of code from today, that is 29th August, 2019. I have been coding for long now but I have not participated in
 it yet. Now I think its really time to make a public commitment while preparing for a dev job that I have been preparing for a while now.
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: August 29, 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Coded React Todo Project by following along from Brad Traversy's React Front to Back Crash Course 2019, Worked on Personal Portfolio, Solved some problems from codesignal for interview prepration, read Recurrence relations from Kenneth Rosen's Discrete maths book.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** React is new for me but fun to learn. I have given a lot of time in Vanilla JS. So, I guess I am not having lots of trouble with React. But components and props are somewhat unfamiliar for me at this point of time. In Interview preparation, I am facing more difficulty as compared to Dev work. I need to practice and learn more there.
 
 **Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
 
 
 ### Day 1: June 27, Monday
