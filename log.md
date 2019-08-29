@@ -10,7 +10,11 @@ it yet. Now I think its really time to make a public commitment while preparing 
 
 **Thoughts:** React is new for me but fun to learn. I have given a lot of time in Vanilla JS. So, I guess I am not having lots of trouble with React. But components and props are somewhat unfamiliar for me at this point of time. In Interview preparation, I am facing more difficulty as compared to Dev work. I need to practice and learn more there.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link(s) to work**
+1. [firstNotRepeatingCharacter](https://app.codesignal.com/interview-practice/task/uX5iLwhc6L5ckSyNC)
+2. [firstDuplicate](https://app.codesignal.com/interview-practice/task/pMvymcahZ8dY4g75q)
+3. [ReactFrontToBackCrashCourse]
+4. [PortfolioWork]
 
 
 ### Day 1: June 27, Monday
