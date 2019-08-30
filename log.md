@@ -20,7 +20,7 @@ it yet. Now I think its really time to make a public commitment while preparing 
 
 **Today's Progress**: Completed React Crash Course by Traversy,built the Todo App in the course,Started Brad Traversy's React Front to Back 2019 course on udemy to further my skills in MERN Stack, worked on portfolio, solved more problems for interview preparation, watched video on Recurrence Relations.
 
-**Thoughts:** I think that React is totally new way to do things on front end from what I have done until now. I am having a little discomfort in thinking in terms of components. But at the same time it is very fun.I think I will be able to complete my MERN Stack courses very soon and work on the real world project that I have thought of.
+**Thoughts:** I think that React is totally new way to do things on front end from what I have done until now. I am having a little discomfort in thinking in terms of components. But at the same time it is very fun.Also, while learning React, I have got more exposure few concepts that I was familiar with while learning VanillaJs like map, filter and i have learnt what the spread operator is which I was not taught at all while learning JavaScript. New things are on the way!!
 
 **Link(s) to work**
 1. [firstNotRepeatingCharacter](https://app.codesignal.com/interview-practice/task/uX5iLwhc6L5ckSyNC)
