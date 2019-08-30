@@ -16,6 +16,18 @@ it yet. Now I think its really time to make a public commitment while preparing 
 3. [ReactFrontToBackCrashCourse](https://github.com/shishirjha/ReactCrashCourse)
 4. [PortfolioWork]
 
+### Day 2: August 30, 2019
+
+**Today's Progress**: Completed React Crash Course by Traversy,built the Todo App in the course,Started Brad Traversy's React Front to Back 2019 course on udemy to further my skills in MERN Stack, worked on portfolio, solved more problems for interview preparation, watched video on Recurrence Relations.
+
+**Thoughts:** I think that React is totally new way to do things on front end from what I have done until now. I am having a little discomfort in thinking in terms of components. But at the same time it is very fun.I think I will be able to complete my MERN Stack courses very soon and work on the real world project that I have thought of.
+
+**Link(s) to work**
+1. [firstNotRepeatingCharacter](https://app.codesignal.com/interview-practice/task/uX5iLwhc6L5ckSyNC)
+2. [firstDuplicate](https://app.codesignal.com/interview-practice/task/pMvymcahZ8dY4g75q)
+3. [ReactFrontToBackCrashCourse](https://github.com/shishirjha/ReactCrashCourse)
+4. [PortfolioWork]
+
 
 ### Day 1: June 27, Monday
 
