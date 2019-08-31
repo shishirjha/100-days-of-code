@@ -28,6 +28,14 @@ it yet. Now I think its really time to make a public commitment while preparing 
 3. [RotateImage](https://app.codesignal.com/interview-practice/task/5A8jwLGcEpTPyyjTB)
 
 
+### Day 3: August 31, 2019
+
+**Today's Progress**: Spent very less time on react course but more time on Portfolio website setting up the node-sass took lot of my time. All other time was spent on learning some divide and conquer algorithms and solving some problems on codesignal.
+
+**Thoughts:** To code 1 hour a day is not a big task, I need to put in more hours to get the job as developer as soon as possible.
+
+
+
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
