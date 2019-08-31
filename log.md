@@ -14,7 +14,7 @@ it yet. Now I think its really time to make a public commitment while preparing 
 1. [firstNotRepeatingCharacter](https://app.codesignal.com/interview-practice/task/uX5iLwhc6L5ckSyNC)
 2. [firstDuplicate](https://app.codesignal.com/interview-practice/task/pMvymcahZ8dY4g75q)
 3. [ReactFrontToBackCrashCourse](https://github.com/shishirjha/ReactCrashCourse)
-4. [PortfolioWork]
+4. [PortfolioWork](https://github.com/shishirjha/shishirjha.github.io)
 
 ### Day 2: August 30, 2019
 
@@ -23,10 +23,9 @@ it yet. Now I think its really time to make a public commitment while preparing 
 **Thoughts:** I think that React is totally new way to do things on front end from what I have done until now. I am having a little discomfort in thinking in terms of components. But at the same time it is very fun.Also, while learning React, I have got more exposure to a few concepts that I was familiar with while learning VanillaJs like map, filter and i have learnt what the spread operator is which I was not taught at all while learning JavaScript. And while learning JS, I used XHR,promises,fetch API to handle asynchronous Javascript code but in this crash course I got the opportunity to learn third party axios to interact with external api. New things are on the way!!
 
 **Link(s) to work**
-1. [firstNotRepeatingCharacter](https://app.codesignal.com/interview-practice/task/uX5iLwhc6L5ckSyNC)
-2. [firstDuplicate](https://app.codesignal.com/interview-practice/task/pMvymcahZ8dY4g75q)
-3. [ReactFrontToBackCrashCourse](https://github.com/shishirjha/ReactCrashCourse)
-4. [PortfolioWork]
+1. [ReactFrontToBackCrashCourse](https://github.com/shishirjha/ReactCrashCourse)
+2. [PortfolioWork](https://github.com/shishirjha/shishirjha.github.io)
+3. [RotateImage](https://app.codesignal.com/interview-practice/task/5A8jwLGcEpTPyyjTB)
 
 
 ### Day 1: June 27, Monday
