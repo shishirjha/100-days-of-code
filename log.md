@@ -34,6 +34,12 @@ it yet. Now I think its really time to make a public commitment while preparing 
 
 **Thoughts:** To code 1 hour a day is not a big task, I need to put in more hours to get the job as developer as soon as possible.
 
+### Day 4: September 1, 2019
+
+**Today's Progress**: Went a little off-track, and completed most of the MongoDB M001 course by MongoDB University.
+
+**Thoughts:** I need to increase my speed both in terms of dev work and algorithmic skills. I am able to understand and work on dev side decently but algorithmic side is equally important.
+
 
 
 ### Day 1: June 27, Monday
