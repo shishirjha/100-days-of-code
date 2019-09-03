@@ -40,6 +40,12 @@ it yet. Now I think its really time to make a public commitment while preparing 
 
 **Thoughts:** I need to increase my speed both in terms of dev work and algorithmic skills. I am able to understand and work on dev side decently but algorithmic side is equally important.
 
+### Day 5: September 2, 2019
+
+**Today's Progress**: Completed MongoDB course and back to react course by brad traversy on udemy.
+
+**Thoughts:** I found out that the new React course by Traversy covers the whole MERN app. So, chances are that I will get the opportunity to learn full MERN stack in this course. Hoping to learn MERN asap and start my own web app from scratch.
+
 
 
 ### Day 1: June 27, Monday
