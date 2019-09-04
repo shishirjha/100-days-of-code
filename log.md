@@ -54,6 +54,11 @@ it yet. Now I think its really time to make a public commitment while preparing 
 
 **Thoughts:** We can work with React in two ways nowadays. One is old class based components and newer functional components which can also have states like class based components using new concept called hooks which I have not come across yet. So, there are so many things coming which I am excited about. But one thing which is making me sad is I am not giving enough time to problem solving which I must give.
 
+**Link(s) to work**
+
+1. [Github Finder](https://github.com/shishirjha/githubFinder)
+2. [Portfolio Website](https://github.com/shishirjha/shishirjha.github.io)
+
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
