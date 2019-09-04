@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
 
 ### My Aim with this project:
+
 I am joining 100 days of code from today, that is 29th August, 2019. I have been coding for long now but I have not participated in
 it yet. Now I think its really time to make a public commitment while preparing for a dev job that I have been preparing for a while now.
 
@@ -11,6 +12,7 @@ it yet. Now I think its really time to make a public commitment while preparing 
 **Thoughts:** React is new for me but fun to learn. I have given a lot of time in Vanilla JS. So, I guess I am not having lots of trouble with React. But components and props are somewhat unfamiliar for me at this point of time. In Interview preparation, I am facing more difficulty as compared to Dev work. I need to practice and learn more there.
 
 **Link(s) to work**
+
 1. [firstNotRepeatingCharacter](https://app.codesignal.com/interview-practice/task/uX5iLwhc6L5ckSyNC)
 2. [firstDuplicate](https://app.codesignal.com/interview-practice/task/pMvymcahZ8dY4g75q)
 3. [ReactFrontToBackCrashCourse](https://github.com/shishirjha/ReactCrashCourse)
@@ -23,10 +25,10 @@ it yet. Now I think its really time to make a public commitment while preparing 
 **Thoughts:** I think that React is totally new way to do things on front end from what I have done until now. I am having a little discomfort in thinking in terms of components. But at the same time it is very fun.Also, while learning React, I have got more exposure to a few concepts that I was familiar with while learning VanillaJs like map, filter and i have learnt what the spread operator is which I was not taught at all while learning JavaScript. And while learning JS, I used XHR,promises,fetch API to handle asynchronous Javascript code but in this crash course I got the opportunity to learn third party axios to interact with external api. New things are on the way!!
 
 **Link(s) to work**
+
 1. [ReactFrontToBackCrashCourse](https://github.com/shishirjha/ReactCrashCourse)
 2. [PortfolioWork](https://github.com/shishirjha/shishirjha.github.io)
 3. [RotateImage](https://app.codesignal.com/interview-practice/task/5A8jwLGcEpTPyyjTB)
-
 
 ### Day 3: August 31, 2019
 
@@ -46,7 +48,11 @@ it yet. Now I think its really time to make a public commitment while preparing 
 
 **Thoughts:** I found out that the new React course by Traversy covers the whole MERN app. So, chances are that I will get the opportunity to learn full MERN stack in this course. Hoping to learn MERN asap and start my own web app from scratch.
 
+### Day 6: September 3, 2019
 
+**Today's Progress**: Worked on class based components in the first project of the course React Front to Back 2019 by Brad Traversy on Udemy. Worked for 1 hr on Portfolio website. Designed navbar in the header and introduced the typewriter effect.
+
+**Thoughts:** We can work with React in two ways nowadays. One is old class based components and newer functional components which can also have states like class based components using new concept called hooks which I have not come across yet. So, there are so many things coming which I am excited about. But one thing which is making me sad is I am not giving enough time to problem solving which I must give.
 
 ### Day 1: June 27, Monday
 
@@ -55,5 +61,6 @@ it yet. Now I think its really time to make a public commitment while preparing 
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
 **Link(s) to work**
+
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
