@@ -59,6 +59,29 @@ it yet. Now I think its really time to make a public commitment while preparing 
 1. [Github Finder](https://github.com/shishirjha/githubFinder)
 2. [Portfolio Website](https://github.com/shishirjha/shishirjha.github.io)
 
+### Day 7: September 4, 2019
+
+**Today's Progress**: Watched two videos from MIT6006 on algorithms, solved two problems on arrays and matrices from hackerrank and codesignal. moved ahead in react course on udemy. Worked for 1 hour on portfolio website.
+
+**Thoughts:** I am finding that solving problems is the main way you can really learn algorithms that is by practicing them. But some algorithmic concepts like dynamic programming are so not-intuitive. So, if we want to tackle such problems it is good to learn basic theory before practicing problem. Day by day I realise more and more that solving algorithmic challenges and thinking algorithmically is more challenging and difficult for me then learning from dev courses. Real challenges will appear while starting my own projects in dev side. I am excited and scared a little too of upcoming projects.
+
+**Link(s) to work**
+
+1. [Github Finder](https://github.com/shishirjha/githubFinder)
+2. [Portfolio Website](https://github.com/shishirjha/shishirjha.github.io)
+3. [Array Manipulation](https://www.hackerrank.com/challenges/crush/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
+
+### Day 8: September 5, 2019
+
+**Today's Progress**: Solved two problems on array,matrices and grids. Moved ahead on a react course. Learnt about Routes in React and how to link routes. Made first pull request on any open source project(Mozilla)
+
+**Thoughts:** Need to practice more and more algorithmic problems daily. September 6th will be the last day for arrays and then I will move on to next category. First pull request on open source project was awesome.
+
+**Link(s) to work**
+
+1. [Github Finder](https://github.com/shishirjha/githubFinder)
+2. [Pull Request](https://github.com/mozilla/bugbug/pull/936)
+
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
